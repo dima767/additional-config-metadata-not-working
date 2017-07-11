@@ -1,0 +1,17 @@
+{
+  "hints": [
+    {
+      "name": "my.int-prop",
+      "values": [
+        {
+          "value": 30,
+          "description": "This is 30"
+        },
+        {
+          "value": 100,
+          "description": "This is 100"
+        }
+      ]
+    }
+  ]
+}
